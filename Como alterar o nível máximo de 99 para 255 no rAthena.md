@@ -14,8 +14,8 @@ aprendendo (ignore isso por favor)
   5. Agora, selecione a opção de marca de seleção para **Número a inserir.**
   6.Como exemplo, a última EXP para o nível 99 é 4.000.000, e você deseja adicionar um intervalo de EXP de 70.000 do nível 100 ao 255. Então escreva 4.070.000 em **Número Inicial.**
   7. Em seguida, escreva **70.000** em **Incrementar por**, pressione OK. ![Column Editor](http://pservero.com/wp-content/uploads/2016/12/Screenshot_217.png)
-  8. Novos valores de EXP do nível 100 ao 255 são gerados em 156 linhas![EXP result](http://pservero.com/wp-content/uploads/2016/12/Screenshot_214.png)
-  9.Para garantir que não haja espaço extra, clique em **Editar** menu > **Operações em Branco** > **Aparar Espaço Final ** ![Remove trailing spaces](http://pservero.com/wp-content/uploads/2016/12/Screenshot_215.png)
+  8. Novos valores de EXP do nível 100 ao 255 são gerados em 156 linhas! [EXP result](http://pservero.com/wp-content/uploads/2016/12/Screenshot_214.png)
+  9.Para garantir que não haja espaço extra, clique em **Editar** menu > **Operações em Branco** > ** Aparar Espaço Final ** ![Remove trailing spaces](http://pservero.com/wp-content/uploads/2016/12/Screenshot_215.png)
   10. Pressione CTRL+H para substituir as 156 linhas de EXP do nível 100 ao 255 para o formato CSV.
   11. Em **Localizar**, escreva `\r\n`para EOL DOS/Windows ou `\n` para UNIX EOL.
   12. Em **Substituir por**, escreva  `,` (vírgula) ![Replace EOFs to commas](http://pservero.com/wp-content/uploads/2016/12/Screenshot_219.png)
