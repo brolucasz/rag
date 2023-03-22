@@ -14,7 +14,7 @@
   9.Para garantir que não haja espaço extra, clique em **Editar** menu > **Operações em Branco** > ** Aparar Espaço Final ** ![Remove trailing spaces](http://pservero.com/wp-content/uploads/2016/12/Screenshot_215.png)
   10. Pressione CTRL+H para substituir as 156 linhas de EXP do nível 100 ao 255 para o formato CSV.
   11. Em **Localizar**, escreva `\r\n`para EOL DOS/Windows ou `\n` para UNIX EOL.
-  12. Em **Substituir por**, escreva  `,` (vírgula) ![Replace EOFs to commas](http://pservero.com/wp-content/uploads/2016/12/Screenshot_219.png)
+  12. Em **Substituir por**, escreva  `,` (vírgula) ![Substitua EOFs por vírgula](http://pservero.com/wp-content/uploads/2016/12/Screenshot_219.png)
   13. Pressione **Substituir tudo.**
   14. Selecione todas as entradas, copie-as! [Extra EXP table for level 255](http://pservero.com/wp-content/uploads/2016/12/Screenshot_220.png)
   15. Cole no arquivo job_exp.txt antes do 99999999 e adicione uma vírgula extra. O 99.999.999 é a EXP máxima para o personagem no nível máximo.
