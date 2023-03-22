@@ -1,7 +1,3 @@
-# rag
-aprendendo (ignore isso por favor)
-
-
 # Como alterar o nível máximo de 99 para 255 no rAthena
 
 ## Para adicionar tabelas de EXP para o nível base 255 a partir do nível 99, você precisa apenas do Notepad++ para editar o arquivo job_exp.txt. Siga estas instruções rápidas:
